@@ -8,9 +8,9 @@
 - For the ARC Tasks.zip, download and unzip it.
 - When opened, it contains listing.html, which can open the folders in a directory for easy viewing.
 - The folders are:
->solved (contains 50 solved ARC tasks)
->train_pass_but_test_failed (contains 3 ARC tasks whose programs solve the training tasks but not the test task)
->unsolved (contains 58 unsolved ARC tasks)
+> solved (contains 50 solved ARC tasks)
+> train_pass_but_test_failed (contains 3 ARC tasks whose programs solve the training tasks but not the test task)
+> unsolved (contains 58 unsolved ARC tasks)
 - Each .html file contains the training and test input and outputs, and GPT's output (if code compiles).
 - GPT's test output is only provided if it passes all the training inputs.
 - There can be up to 2 iterations for GPT to use environmental feedback to refine the code.
